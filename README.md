@@ -3,14 +3,13 @@
 A responsive photography portfolio website built using HTML and CSS.
 
 🔗 **Live Demo**:  
-https://avinashkale14.github.io/photography-portfolio/
 https://avinashkale14.github.io/photography-portfolio-/
 
 ---
 
 ## 📷 Project Preview
 
-![Photography Portfolio Preview](assets/images/preview.png)
+![Photography Portfolio Preview](assets/preview.png)
 
 ---
 
